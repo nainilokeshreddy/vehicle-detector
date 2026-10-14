@@ -1,0 +1,11 @@
+.venv
+.venv/
+.venv-1/
+**/.venv/
+**/.venv-1/
+**/__pycache__/
+**/*.pyc
+.DS_Store
+**/outputs/
+autonomous_vehicle_ai/.venv/
+autonomous_vehicle_ai/dataset/gtsrb/gtsrb/GTSRB-Training_fixed.zip
